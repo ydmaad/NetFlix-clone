@@ -7,7 +7,7 @@
   padding: 20px;
   display: flex;
   justify-content: space-between;
-  align-item: center;
+  align-items: center;
   transition-timing-function: ease-in;
   transition: all 0.5s;
 }
@@ -33,7 +33,7 @@
 .nav_input {
   position: fixed;
   left: 50%;
-  tranform: translate(-50%, 0);
+  transform: translate(-50%, 0);
   background-color: #000000c7;
   border-radius: 5px;
   color: white;
