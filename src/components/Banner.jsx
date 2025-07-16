@@ -30,7 +30,7 @@ const Banner = () => {
       params: { append_to_response: "videos" },
     });
     setMovie(movieDetail);
-    console.log(movieDetail);
+    // console.log(movieDetail);
   };
 
   // 100자 이상일때 ... 표시
