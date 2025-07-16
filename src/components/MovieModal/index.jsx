@@ -1,4 +1,5 @@
 import React from "react";
+import "./MovieModal.css";
 
 const MovieModal = ({
   backdrop_path,
