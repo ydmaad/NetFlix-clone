@@ -133,7 +133,7 @@ h2 {
 }
 
 .swiper-pagination {
-  text-align: right !important;
+  text-align: center !important;
 }
 
 .swiper-pagination-bullet {
@@ -155,6 +155,26 @@ h2 {
 
 .swiper-button-next:after,
 .swiper-button-prev:after {
+  font-size: 1.3rem !important;
+  font-weight: 600 !important;
+}
+
+.swiper-pagination {
+  text-aign: right !important;
+  opacity: 1 !important;
+}
+
+.swiper-pagiantiono-bullet-active {
+  background: white !important;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: white !important;
+}
+
+.swiper-button-prev:after,
+.swiper-button-next:after {
   font-size: 1.3rem !important;
   font-weight: 600 !important;
 }
